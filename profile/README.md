@@ -6,7 +6,7 @@ this is the hub that contains all Jango's finest Mods its Owners are:
 
 As to this moment 2 Mods are part of the hub
 
-### JangosArmory
+### 1. JangosArmory
 The main mod from Jango's Finest.
 This mod contains a collection of:
 * Armours
@@ -15,7 +15,7 @@ This mod contains a collection of:
 * Vehicles
 * Units
 
-### JangosMaps
+### 2. JangosMaps
 A collection of maps with the idea of facilitating the management of mods on the server as well as on the troopers
 
 <!--
