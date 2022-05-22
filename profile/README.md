@@ -1,6 +1,22 @@
 ## Jango's Finest
 ### Introduction
+this is the hub that contains all Jango's finest Mods its Owners are:
+* CM-1226 "Tusk"
+* CC-1705 "Dak"
 
+As to this moment 2 Mods are part of the hub
+
+### JangosArmory
+The main mod from Jango's Finest.
+This mod contains a collection of:
+* Armours
+* Helmets
+* Vests
+* Vehicles
+* Units
+
+### JangosMaps
+A collection of maps with the idea of facilitating the management of mods on the server as well as on the troopers
 
 <!--
 
